@@ -1,0 +1,9 @@
+What is the difference between a merge and a rebase?
+
+In Git, a merge and a rebase are two different ways to combine changes from different branches. 
+The biggest difference is that merge combines the changes from two different branches and then 
+creates a new commit with said changes. In the project history, you can access the two seperate 
+branches in the project history. On the other hand, rebase takes the changes from one branch and 
+applies them directly to another branch, making a linear project history. Overall, the key 
+difference is with what the project history looks like. The choice between merge and rebase 
+depends on what you want your project history to look like.
