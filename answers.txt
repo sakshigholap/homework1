@@ -7,3 +7,10 @@ branches in the project history. On the other hand, rebase takes the changes fro
 applies them directly to another branch, making a linear project history. Overall, the key 
 difference is with what the project history looks like. The choice between merge and rebase 
 depends on what you want your project history to look like.
+
+What is a remote repository?
+
+In Git, a remote repository is a copy of a repository that is hosted on a different server or 
+location than the local one on your computer. It allows you to sync your local repository with
+changes from others and share your own changes, making it great for collaboration.
+
